@@ -1,34 +1,34 @@
 ---
 title: Henri Rebecq
 role: Senior Research Scientist
-avatar_filename: portrait.jpg
+avatar_filename: avatar.jpg
 bio: Senior Research Scientist at Google. My research interests include semantic
   scene understanding, generative AI, SLAM and robotics.
 interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: h.rebecq@gmail.com
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=zveWLBkAAAAJ
     display:
-      header: true
+      header: false
   - icon: github
     icon_pack: fab
     link: https://github.com/supitalp
     display:
-      header: true
+      header: false
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/henri-rebecq-81bb9a97
     display:
-      header: true
+      header: false
   - icon: cv
     icon_pack: ai
     link: assets/media/cv_rebecq.pdf
     display:
-      header: true
+      header: false
 organizations:
   - name: Google
     url: ""
