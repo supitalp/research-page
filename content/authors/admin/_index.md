@@ -26,7 +26,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: assets/media/cv_rebecq.pdf
     display:
       header: true
 organizations:
